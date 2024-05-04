@@ -1,0 +1,11 @@
+WEB_HOST: web.ammadevops.online
+MONGODB_HOST: mongodb.ammadevops.online
+CATALOGUE_HOST: catalogue.ammadevops.online
+REDIS_HOST: redis.ammadevops.online
+USER_HOST: user.ammadevops.online
+CART_HOST: cart.ammadevops.online
+MYSQL_HOST: mysql.ammadevops.online
+SHIPPING_HOST: shipping.ammadevops.online
+RABBITMQ_HOST: rabbitmq.ammadevops.online
+PAYMENT_HOST: payment.ammadevops.online
+DISPATCH_HOST: dispatch.ammadevops.online
